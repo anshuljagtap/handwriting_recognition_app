@@ -3,7 +3,7 @@ from fastapi import FastAPI, File, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from PIL import Image
 import io
-from model_utils import recognize_handwriting
+from backend.model_utils import recognize_handwriting
 
 app = FastAPI()
 
