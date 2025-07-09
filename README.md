@@ -111,7 +111,7 @@ flutter run -d chrome  # Or any connected device
 | Image                         | Expected Text     | Recognized Text        |
 |------------------------------|-------------------|------------------------|
 | `sample_handwriting.jpg`     | Anshul Jagtap     | Pinstrel Tagtap        |
-| `TEST_0001.jpg`              | Kevin             | KEKEV. IN.S.S.         |
+| `TEST_0001.jpg`              | Kevin             | KEVIN        |
 
 Despite some spacing and letter mismatches, most alphabet recognition is consistent. Custom fine-tuning recommended for production.
 
@@ -139,8 +139,3 @@ Despite some spacing and letter mismatches, most alphabet recognition is consist
 **Anshul Jagtap**  
 [LinkedIn](https://www.linkedin.com/in/anshuljagtap) • [GitHub](https://github.com/anshuljagtap)
 
----
-
-## License
-
-This project is licensed under the MIT License.
