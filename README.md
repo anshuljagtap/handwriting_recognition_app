@@ -1,11 +1,10 @@
 # Handwriting Recognition App
 
 An end-to-end handwriting recognition system that allows users to upload an image of handwritten text and receive the corresponding digital text output. Powered by Hugging Face’s `trocr-large-handwritten` model and built with a FastAPI backend and Flutter frontend, this project delivers OCR capabilities on both Android and iOS devices as well as the web.
-## Demo Video
 
 ## Demo Video
 
-[![Watch the demo]([https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE](https://youtu.be/OxAdhoZFVGk))
+[![Watch the demo]([[https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE](https://youtu.be/OxAdhoZFVGk)](https://youtu.be/OxAdhoZFVGk))
 
 ---
 
