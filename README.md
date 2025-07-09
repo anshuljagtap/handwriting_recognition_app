@@ -4,8 +4,8 @@ An end-to-end handwriting recognition system that allows users to upload an imag
 
 ## Demo Video
 
-[[[[[![Watch the demo]([[[[https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE](https://youtu.be/OxAdhoZFVGk)](https://youtu.be/OxAdhoZFVGk)](https://www.youtube.com/watch?v=OxAdhoZFVGk)](https://youtu.be/OxAdhoZFVGk?si=H3j9h7L0ynmSyhAV))](https://www.youtube.com/watch?v=OxAdhoZFVGk)](https://www.youtube.com/watch?v=OxAdhoZFVGk)
-](https://www.youtube.com/watch?v=OxAdhoZFVGk)](https://www.youtube.com/watch?v=OxAdhoZFVGk)
+https://youtu.be/OxAdhoZFVGk?si=F_Ju4jnRCN-hQOF8
+
 ---
 
 ## Features
