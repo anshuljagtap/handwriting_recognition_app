@@ -4,6 +4,8 @@ An end-to-end handwriting recognition system that allows users to upload an imag
 
 ## Demo Video
 
+Please watch in 1.5x to 2x speed
+
 https://youtu.be/OxAdhoZFVGk?si=F_Ju4jnRCN-hQOF8
 
 ---
